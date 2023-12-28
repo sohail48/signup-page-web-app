@@ -1,0 +1,67 @@
+.container{
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+    min-height: 100vh;
+    font-family: sans-serif;
+}
+
+.title{
+    text-align: center;
+}
+
+.form{
+    font-weight: bold;
+    justify-content: center;
+    text-align: center;
+}
+
+.form .fstname_style{
+    width: 180px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .lstname_style{
+    width: 180px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .phnstyle{
+    width: 210px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .email_style{
+    width: 215px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .pswd_style{
+    width: 182px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .cnfpswd_style{
+    width: 170px;
+    height: 27px;
+    margin-left: 40px;
+}
+
+.form .btn_style{
+    background-color: #4CAF50;
+    border: none;
+    font-size: 18px;
+    border-radius: 8px;
+    padding: 10px 25px;
+    cursor: pointer;
+  
+}
+
+.form .btn_style:hover{
+    background-color: #45a049;
+}
